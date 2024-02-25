@@ -1,0 +1,78 @@
+ITEM_ID,GENRES,CREATION_TIMESTAMP
+6e0e010dee526f9d7aab46b2e4682a9f,"Outdoors,Food,Meat,Bread,Pancake,Cooking,Person,Adult,Male",1705566242
+b8b3ce3b74093f68faa156731b941a10,"Person,Body Part,Head,Adult,Male,Face,Food,Weapon,Blade,Cooking,Female,Wedding,Woman,Cookware,Performer,Clothing,Outdoors",1705566353
+3eefb39a416b942cc89fba599fdb2f5c,"Nature,Outdoors,Land,Plant,Tree,Vegetation,Path,Person,Adult,Male,Female,Woodland,Wedding,Woman,Architecture,Building,Housing,House",1705566426
+9c548e70860e94fcaf54d2758c0ba29a,"Plant,Field,Nature,Outdoors,Person,Adult,Male,Countryside",1705566475
+26cbcb970c9963d063f7d587fe7ff5a9,"Outdoors,Nature,Water,Person,Adult,Female,Land,Plant,Tree,Vegetation,Woodland,Art,Pool,Architecture,Building,Male",1705566568
+1931bf56b1abc1a9f601b8ba5957fb70,"Outdoors,Nature,Water,Plant",1705566617
+076bb9628c8bd416f481a363d10b84a0,"Outdoors,Nature,Sky,Plant,Road,Person,Adult,Male,Architecture,Building,Urban,Housing,House",1705566699
+fc51ec638fad4a4f2346b2b8c3fb9a1c,"Architecture,Nature,Outdoors,Building,Plant,Vegetation,Hotel",1705566757
+cea477054ab26d3e85468347d2b339da,"Architecture,Nature,Outdoors,Building,Plant,Vegetation,Hotel",1705566986
+663dfd0f6bb929532c0649e32a73df1a,"Person,Head,Adult,Male,Female,Food,Cooking",1705567055
+e89ef1a169442cd3fd97768f8b7eca85,"Person,Head,Adult,Male,Female,Food,Cooking",1705567146
+26568621ecebca2a253a7010f528abf5,"Cookware,Food,Pot,Meat,Person,Cutlery",1705567229
+41043c99690411d492b458f7c58de15e,"Person,Festival,Head,Female,Christmas,Male,Adult",1705567298
+c5a8744185a281978d31c1575232614c,"Person,Leisure Activities,Head,Female,Adult,Face,Happy,Dessert,Food,Cream,Clothing,Male,Body Part,Hand",1705567360
+93eca6b49eb656f26536572e588be8ff,"Body Part,Person,Hand,Transportation,Adult,Male,Vehicle,Outdoors,Electronics,Phone,Car,Sports Car,Coupe,Accessories",1705567446
+8314b8d54265ee994dfb3a19e52d8b6c,"Person,Adult,Male,Female,Transportation,Vehicle,Head,Car",1705567501
+70ca3b97f22088ee6bc4bc22e734ab79,"Person,Transportation,Vehicle,Adult,Male,Head,Car,Face,Performer,Clothing,Happy,Footwear,Shoe,Indoors,Electrical Device,Body Part,Hand,Electronics,Phone,Sports Car,Machine,Accessories",1705567579
+79d00fee3b1572fc49818ce2f9ac859f,"Person,Transportation,Vehicle,Head,Adult,Male,Female,Bus",1705567669
+086b999c965e7d784a7cc7dee3187406,"Person,Transportation,Vehicle,Head,Adult,Male,Female,Bus",1705567753
+60d966598e7adf8879a741ab986386bb,"Animal,Mammal,Pet,Person,Head,Face,Indoors",1705567826
+17f6ecc4d6505aa071d1e310e8c195e7,"Person,Animal,Adult,Male,Bird,Parrot,Female,Plant,Wedding,Woman",1705568325
+23070d03a2b374b078414bf73666a4df,"Person,Animal,Adult,Male,Bird,Parrot,Female,Plant,Wedding,Woman",1705568418
+4b40d87c36793bbf370868135e1a9907,"Animal,Mammal,Canine,Pet,Dog,Indoors,Male,Person,Adult",1705568514
+c2a9bb601fd2f559f67db470202fdd1a,"Animal,Mammal,Canine,Pet,Indoors,Plant,Person,Adult,Male,Weapon,Food,Dog,Dessert,Cream,Clothing,Vest,Female",1705568576
+be5a7b7ca77f8e0de9fe5a12479ef45d,"Person,Animal,Mammal,Canine,Pet,Head,Clothing,Dog,Adult,Male,Hat,Female,Face,Food,Indoors",1705568668
+58d5743b213dcef8a3d931217ac1c687,"Person,Animal,Mammal,Canine,Dog,Pet,Adult,Female,Male,Head",1705568768
+3f44d737119484cb06dc8074cfd6ba99,"Person,Male,Adult,Sport,Football,Head,Face,Electronics,Hardware,Happy,Computer Hardware,Screen,Floor,Wood,Indoors,Female,Wedding,Woman,Hardwood,Performer,Animal,Mammal,Pet,Cat",1705568844
+b6151a57fd74de9ee3bd0ca09bb82b45,"Person,Animal,Mammal,Canine,Pet,Performer,Dog,Food,Adult,Male,Female",1705568953
+0dde45f98279700aa649783b45c391c0,"Person,Animal,Bird,Food,Adult,Female,Wedding,Woman,Waterfowl,Male,Beverage,Alcohol",1705569031
+40fc2e98607e6b6448693cfa448f909b,"Animal,Mammal,Pet,Head,Person,Indoors,Cat,Adult,Female,Male,Face",1705569107
+0efb5672a1c7e9e0683f31a97eec0bc8,"Animal,Mammal,Canine,Pet,Dog,Male,Person,Head,Clothing,Indoors",1705569173
+1c001092a3b5105d4be173d3a58f5305,"Person,Animal,Mammal,Pet,Cat,Adult,Female,Wedding,Woman,Indoors,Fish,Sea Life,Water",1705569243
+df382b18cef70d0c92131e4cf69efd0c,"Person,Head,Female,Clothing,Adult,Male,Face,Happy,Wedding,Woman",1705569317
+c09e8de2336177e58550a133004dedbc,"Person,Head,Performer,Adult,Female,Face,Indoors,Happy,Cake,Cream,Dessert,Food",1705569390
+7cbe8001605e39226a03bd7e715e0f5b,"Person,Festival,Christmas,Christmas Decorations,Christmas Tree,Head,Adult,Female",1705569488
+db85c0fbb319209616e48467f5add57a,"Person,Festival,Christmas,Christmas Decorations,Christmas Tree,Head,Adult,Female",1705569538
+c59e9cfffc0cba73c9673131ac270009,"Person,Festival,Christmas,Christmas Decorations,Adult,Male,Female,Wedding,Woman,Christmas Tree,Symbol,Head",1705569591
+0763f85a91ebec448114a40707c16e43,"Person,Head,Indoors,Plant,Adult,Female,Device,Electrical Device,Appliance,Clothing,Jar,Potted Plant,Pottery,Vase,Window",1705621785
+031906b7266b6f944e56346b77cf8040,"Person,Architecture,Building,Furniture,Indoors,Transportation,Vehicle,Head",1705622527
+da38d92c37bdcd3c727fc22b2fd42d88,"Person,Architecture,Building,Furniture,Indoors,Transportation,Vehicle,Head",1705623026
+89e8ec8a19d882b8edf04d291ff78f90,"Person,Electronics,Hardware,Computer,Computer Hardware,Screen,Adult,Female,Male,Head",1705623104
+5ec49f54d3089724430af77293f553ff,"Person,Transportation,Vehicle,Architecture,Building,Furniture,Indoors",1705623743
+92c3983c0d41372eaffde86c17d5582b,"Outdoors,Water,Pool,Architecture",1705624134
+901c7be5c5b2668c55092ab70b5a29c2,"Person,Architecture,Building,Furniture,Indoors,Transportation,Vehicle,Head",1705624290
+e93bd12bd175a917df345cc1aa111440,"Body Part,Hand,Person,Clothing,Food",1705624475
+33792a625e1174377fc689bdfdb4b5fd,"Body Part,Hand,Person,Clothing,Food",1705625208
+67284fd5bb784761b47c66ef222fa3a7,"Person,Electronics,Hardware,Computer,Computer Hardware,Screen,Adult,Female,Male,Head",1705625571
+ff587b166432a459a3486771f50b3641,"Person,Architecture,Building,Furniture,Indoors,Transportation,Vehicle,Head",1705626366
+0229af965504092d1063e4975313d23a,"Architecture,Building,Factory,Box,Cardboard,Carton,Package,Person",1705629500
+b794b1fbe37375428a0d1a64c0a3b072,"Person,Clothing,Adult,Male",1705629831
+dbcdea131eadb3f303e12491eb7ab4bd,"Person,Transportation,Vehicle,Architecture,Building,Furniture,Indoors",1705630146
+cefb1cb3010e41df8cf67b3d344dfa09,"Architecture,Building,Factory,Box,Cardboard,Carton,Package,Person",1705631883
+9827e08db5f1f52c92a5700a27721b14,"Architecture,Building,Factory,Box,Cardboard,Carton,Package,Person",1705631889
+defe08ff84becc2e793d335ab7cc3a4f,"Body Part,Hand,Person,Clothing,Food",1705632204
+c992fe6fa6e8f4f304df69a2fae4cb08,"Person,Electronics,Hardware,Computer,Computer Hardware,Screen,Adult,Female,Male,Head",1705632957
+321f890fd8918406fd42d8ad0affd760,"Body Part,Hand,Person,Clothing,Food",1705634940
+9c39aead9c4e3bfaa7998ae20ffcee0f,"Architecture,Building,Factory,Box,Cardboard,Carton,Package,Person",1705635247
+568f4def7c41a6d4601cdb0c932a5179,"Person,Head,Indoors,Plant,Adult,Female,Device,Electrical Device,Appliance,Clothing,Jar,Potted Plant,Pottery,Vase,Window",1705635745
+b6a46b96d960d9a6e95a83228da79526,"Person,Head,Indoors,Plant,Adult,Female,Device,Electrical Device,Appliance,Clothing,Jar,Potted Plant,Pottery,Vase,Window",1705635920
+f2b42237ed566bf3baeceda6b879dd4d,"Person,Head,Indoors,Plant,Adult,Female,Device,Electrical Device,Appliance,Clothing,Jar,Potted Plant,Pottery,Vase,Window",1705636070
+4fcb85284a95d362e473229eb13801fb,"Person,Transportation,Vehicle,Architecture,Building,Furniture,Indoors",1705636152
+0c99b8c114fb8979021c3484b8a1f4d7,"Body Part,Hand,Person,Clothing,Food",1705649183
+cd72fc8151b7ce343299664a4cae0823,"Person,Clothing,Adult,Male",1705649908
+b5cfad24c11fd4a4a9a640c8ba3f4822,"Person,Clothing,Adult,Male",1705650419
+924bbced65b0d52be7a3321c4178be6d,"Person,Head,Indoors,Plant,Adult,Female,Device,Electrical Device,Appliance,Clothing,Jar,Potted Plant,Pottery,Vase,Window",1705650840
+ecf890e409e06086d5ba5a01c96ddc88,"Person,Clothing,Adult,Male",1705652869
+3edd04aca20f6d877dda04e7437376d6,"Person,Coast,Nature,Outdoors,Sea,Shoreline,Water,Adult,Male,Female",1705653343
+4dd3e9ed228b95473d6488cb334687f0,"Outdoors,Water,Pool,Architecture",1705654321
+bc53ea46479084e9c70168e374581ad5,"Person,Electronics,Hardware,Computer,Computer Hardware,Screen,Adult,Female,Male,Head",1705673888
+8c000918cb99dc5f2f011464a09c94d4,"Architecture,Building,Factory,Box,Cardboard,Carton,Package,Person",1705675816
+823dad9c9f6b1e76d993661cddb64115,"Body Part,Hand,Person,Clothing,Device,Tool",1705705469
+be35d625d103fc69744d86e305efea06,"Clothing,Person,Adult,Male",1705706171
+1c80ab421aaf309cbad642147b4112b5,"Outdoors,Architecture,Nature,Water,Building,Urban",1705730860
+864f69ce13deace55f5dda5c71d4e8a3,"Outdoors,Architecture,Nature,Water,Building,Urban",1705738594
+1818e44ced0eeaa5676393aa4ce97a91,"Outdoors,Architecture,Building,Urban,Box,Nature,Water",1705738808
+98b9503dfe2b76b8bf06e4c787a45034,"Person,Electronics,Hardware,Computer,Computer Hardware,Adult,Male,Screen,Female",1705747438
+ed4c428c6483d7b42dbc82c883095bcc,"Person,Electronics,Hardware,Computer,Computer Hardware,Pc,Adult,Male,Screen",1705747532
