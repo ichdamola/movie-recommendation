@@ -1,4 +1,4 @@
-# movie-recommendation
+# Movie Recommendation
 The Video Recommendation System is a personalized recommendation engine built using AWS services like Amazon Personalize, Amazon S3, AWS Lambda, and API Gateway. The system aims to provide users with personalized video recommendations based on their past interactions with videos, such as watching duration and engagement.
 
 ## Acrhitecture
